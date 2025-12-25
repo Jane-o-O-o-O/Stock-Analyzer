@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+pymongo
+tushare
+akshare
+requests
+python-dotenv
+apscheduler
+aiohttp
+pydantic
